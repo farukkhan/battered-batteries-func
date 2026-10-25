@@ -1,0 +1,10 @@
+{
+  "IsEncrypted": false,
+  "Values": {
+    "FUNCTIONS_WORKER_RUNTIME": "node",
+    "AzureWebJobsStorage": "UseDevelopmentStorage=true",
+    "CONNECTION-STRING-SBQ-BATBAT-SPT": "<placeholder>",
+    "BATBAT_API_BASE_URL": "https://BatB.azure-api.net",
+    "BATBAT_API_KEY": "<api-key>"
+  }
+}
