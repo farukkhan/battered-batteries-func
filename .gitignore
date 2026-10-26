@@ -1,3 +1,4 @@
+.vscode/
 bin/
 **/bin/
 !Modules/**
@@ -26,7 +27,7 @@ local.settings.json
 
 node_modules
 dist
-./docs
+
 # Local python packages
 .python_packages/
 
